@@ -1,0 +1,3206 @@
+fileFormatVersion: 2
+guid: d6f6581b985ba4b4486b70c8bc8c99f4
+timeCreated: 1496334896
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegamanX6_Ultimate_Armor_0
+    21300002: MegamanX6_Ultimate_Armor_1
+    21300004: MegamanX6_Ultimate_Armor_2
+    21300006: MegamanX6_Ultimate_Armor_3
+    21300008: MegamanX6_Ultimate_Armor_4
+    21300010: MegamanX6_Ultimate_Armor_5
+    21300012: MegamanX6_Ultimate_Armor_6
+    21300014: MegamanX6_Ultimate_Armor_7
+    21300016: MegamanX6_Ultimate_Armor_8
+    21300018: MegamanX6_Ultimate_Armor_9
+    21300020: MegamanX6_Ultimate_Armor_10
+    21300022: MegamanX6_Ultimate_Armor_11
+    21300024: MegamanX6_Ultimate_Armor_12
+    21300026: MegamanX6_Ultimate_Armor_13
+    21300028: MegamanX6_Ultimate_Armor_14
+    21300030: MegamanX6_Ultimate_Armor_15
+    21300032: MegamanX6_Ultimate_Armor_16
+    21300034: MegamanX6_Ultimate_Armor_17
+    21300036: MegamanX6_Ultimate_Armor_18
+    21300038: MegamanX6_Ultimate_Armor_19
+    21300040: MegamanX6_Ultimate_Armor_20
+    21300042: MegamanX6_Ultimate_Armor_21
+    21300044: MegamanX6_Ultimate_Armor_22
+    21300046: MegamanX6_Ultimate_Armor_23
+    21300048: MegamanX6_Ultimate_Armor_24
+    21300050: MegamanX6_Ultimate_Armor_25
+    21300052: MegamanX6_Ultimate_Armor_26
+    21300054: MegamanX6_Ultimate_Armor_27
+    21300056: MegamanX6_Ultimate_Armor_28
+    21300058: MegamanX6_Ultimate_Armor_29
+    21300060: MegamanX6_Ultimate_Armor_30
+    21300062: MegamanX6_Ultimate_Armor_31
+    21300064: MegamanX6_Ultimate_Armor_32
+    21300066: MegamanX6_Ultimate_Armor_33
+    21300068: MegamanX6_Ultimate_Armor_34
+    21300070: MegamanX6_Ultimate_Armor_35
+    21300072: MegamanX6_Ultimate_Armor_36
+    21300074: MegamanX6_Ultimate_Armor_37
+    21300076: MegamanX6_Ultimate_Armor_38
+    21300078: MegamanX6_Ultimate_Armor_39
+    21300080: MegamanX6_Ultimate_Armor_40
+    21300082: MegamanX6_Ultimate_Armor_41
+    21300084: MegamanX6_Ultimate_Armor_42
+    21300086: MegamanX6_Ultimate_Armor_43
+    21300088: MegamanX6_Ultimate_Armor_44
+    21300090: MegamanX6_Ultimate_Armor_45
+    21300092: MegamanX6_Ultimate_Armor_46
+    21300094: MegamanX6_Ultimate_Armor_47
+    21300096: MegamanX6_Ultimate_Armor_48
+    21300098: MegamanX6_Ultimate_Armor_49
+    21300100: MegamanX6_Ultimate_Armor_50
+    21300102: MegamanX6_Ultimate_Armor_51
+    21300104: MegamanX6_Ultimate_Armor_52
+    21300106: MegamanX6_Ultimate_Armor_53
+    21300108: MegamanX6_Ultimate_Armor_54
+    21300110: MegamanX6_Ultimate_Armor_55
+    21300112: MegamanX6_Ultimate_Armor_56
+    21300114: MegamanX6_Ultimate_Armor_57
+    21300116: MegamanX6_Ultimate_Armor_58
+    21300118: MegamanX6_Ultimate_Armor_59
+    21300120: MegamanX6_Ultimate_Armor_60
+    21300122: MegamanX6_Ultimate_Armor_61
+    21300124: MegamanX6_Ultimate_Armor_62
+    21300126: MegamanX6_Ultimate_Armor_63
+    21300128: MegamanX6_Ultimate_Armor_64
+    21300130: MegamanX6_Ultimate_Armor_65
+    21300132: MegamanX6_Ultimate_Armor_66
+    21300134: MegamanX6_Ultimate_Armor_67
+    21300136: MegamanX6_Ultimate_Armor_68
+    21300138: MegamanX6_Ultimate_Armor_69
+    21300140: MegamanX6_Ultimate_Armor_70
+    21300142: MegamanX6_Ultimate_Armor_71
+    21300144: MegamanX6_Ultimate_Armor_72
+    21300146: MegamanX6_Ultimate_Armor_73
+    21300148: MegamanX6_Ultimate_Armor_74
+    21300150: MegamanX6_Ultimate_Armor_75
+    21300152: MegamanX6_Ultimate_Armor_76
+    21300154: MegamanX6_Ultimate_Armor_77
+    21300156: MegamanX6_Ultimate_Armor_78
+    21300158: MegamanX6_Ultimate_Armor_79
+    21300160: MegamanX6_Ultimate_Armor_80
+    21300162: MegamanX6_Ultimate_Armor_81
+    21300164: MegamanX6_Ultimate_Armor_82
+    21300166: MegamanX6_Ultimate_Armor_83
+    21300168: MegamanX6_Ultimate_Armor_84
+    21300170: MegamanX6_Ultimate_Armor_85
+    21300172: MegamanX6_Ultimate_Armor_86
+    21300174: MegamanX6_Ultimate_Armor_87
+    21300176: MegamanX6_Ultimate_Armor_88
+    21300178: MegamanX6_Ultimate_Armor_89
+    21300180: MegamanX6_Ultimate_Armor_90
+    21300182: MegamanX6_Ultimate_Armor_91
+    21300184: MegamanX6_Ultimate_Armor_92
+    21300186: MegamanX6_Ultimate_Armor_93
+    21300188: MegamanX6_Ultimate_Armor_94
+    21300190: MegamanX6_Ultimate_Armor_95
+    21300192: MegamanX6_Ultimate_Armor_96
+    21300194: MegamanX6_Ultimate_Armor_97
+    21300196: MegamanX6_Ultimate_Armor_98
+    21300198: MegamanX6_Ultimate_Armor_99
+    21300200: MegamanX6_Ultimate_Armor_100
+    21300202: MegamanX6_Ultimate_Armor_101
+    21300204: MegamanX6_Ultimate_Armor_102
+    21300206: MegamanX6_Ultimate_Armor_103
+    21300208: MegamanX6_Ultimate_Armor_104
+    21300210: MegamanX6_Ultimate_Armor_105
+    21300212: MegamanX6_Ultimate_Armor_106
+    21300214: MegamanX6_Ultimate_Armor_107
+    21300216: MegamanX6_Ultimate_Armor_108
+    21300218: MegamanX6_Ultimate_Armor_109
+    21300220: MegamanX6_Ultimate_Armor_110
+    21300222: MegamanX6_Ultimate_Armor_111
+    21300224: MegamanX6_Ultimate_Armor_112
+    21300226: MegamanX6_Ultimate_Armor_113
+    21300228: MegamanX6_Ultimate_Armor_114
+    21300230: MegamanX6_Ultimate_Armor_115
+    21300232: MegamanX6_Ultimate_Armor_116
+    21300234: MegamanX6_Ultimate_Armor_117
+    21300236: MegamanX6_Ultimate_Armor_118
+    21300238: MegamanX6_Ultimate_Armor_119
+    21300240: MegamanX6_Ultimate_Armor_120
+    21300242: MegamanX6_Ultimate_Armor_121
+    21300244: MegamanX6_Ultimate_Armor_122
+    21300246: MegamanX6_Ultimate_Armor_123
+    21300248: MegamanX6_Ultimate_Armor_124
+    21300250: MegamanX6_Ultimate_Armor_125
+    21300252: MegamanX6_Ultimate_Armor_126
+    21300254: MegamanX6_Ultimate_Armor_127
+    21300256: MegamanX6_Ultimate_Armor_128
+    21300258: MegamanX6_Ultimate_Armor_129
+    21300260: MegamanX6_Ultimate_Armor_130
+    21300262: MegamanX6_Ultimate_Armor_131
+    21300264: MegamanX6_Ultimate_Armor_132
+    21300266: MegamanX6_Ultimate_Armor_133
+    21300268: MegamanX6_Ultimate_Armor_134
+    21300270: MegamanX6_Ultimate_Armor_135
+    21300272: MegamanX6_Ultimate_Armor_136
+    21300274: MegamanX6_Ultimate_Armor_137
+    21300276: MegamanX6_Ultimate_Armor_138
+    21300278: MegamanX6_Ultimate_Armor_139
+    21300280: MegamanX6_Ultimate_Armor_140
+    21300282: MegamanX6_Ultimate_Armor_141
+    21300284: MegamanX6_Ultimate_Armor_142
+    21300286: MegamanX6_Ultimate_Armor_143
+    21300288: MegamanX6_Ultimate_Armor_144
+    21300290: MegamanX6_Ultimate_Armor_145
+    21300292: MegamanX6_Ultimate_Armor_146
+    21300294: MegamanX6_Ultimate_Armor_147
+    21300296: MegamanX6_Ultimate_Armor_148
+    21300298: MegamanX6_Ultimate_Armor_149
+    21300300: MegamanX6_Ultimate_Armor_150
+    21300302: MegamanX6_Ultimate_Armor_151
+    21300304: MegamanX6_Ultimate_Armor_152
+    21300306: MegamanX6_Ultimate_Armor_153
+    21300308: MegamanX6_Ultimate_Armor_154
+    21300310: MegamanX6_Ultimate_Armor_155
+    21300312: MegamanX6_Ultimate_Armor_156
+    21300314: MegamanX6_Ultimate_Armor_157
+    21300316: MegamanX6_Ultimate_Armor_158
+    21300318: MegamanX6_Ultimate_Armor_159
+    21300320: MegamanX6_Ultimate_Armor_160
+    21300322: MegamanX6_Ultimate_Armor_161
+    21300324: MegamanX6_Ultimate_Armor_162
+    21300326: MegamanX6_Ultimate_Armor_163
+    21300328: MegamanX6_Ultimate_Armor_164
+    21300330: MegamanX6_Ultimate_Armor_165
+    21300332: MegamanX6_Ultimate_Armor_166
+    21300334: MegamanX6_Ultimate_Armor_167
+    21300336: MegamanX6_Ultimate_Armor_168
+    21300338: MegamanX6_Ultimate_Armor_169
+    21300340: MegamanX6_Ultimate_Armor_170
+    21300342: MegamanX6_Ultimate_Armor_171
+    21300344: MegamanX6_Ultimate_Armor_172
+    21300346: MegamanX6_Ultimate_Armor_173
+    21300348: MegamanX6_Ultimate_Armor_174
+    21300350: MegamanX6_Ultimate_Armor_175
+    21300352: MegamanX6_Ultimate_Armor_176
+    21300354: MegamanX6_Ultimate_Armor_177
+    21300356: MegamanX6_Ultimate_Armor_178
+    21300358: MegamanX6_Ultimate_Armor_179
+    21300360: MegamanX6_Ultimate_Armor_180
+    21300362: MegamanX6_Ultimate_Armor_181
+    21300364: MegamanX6_Ultimate_Armor_182
+    21300366: MegamanX6_Ultimate_Armor_183
+    21300368: MegamanX6_Ultimate_Armor_184
+    21300370: MegamanX6_Ultimate_Armor_185
+    21300372: MegamanX6_Ultimate_Armor_186
+    21300374: MegamanX6_Ultimate_Armor_187
+    21300376: MegamanX6_Ultimate_Armor_188
+    21300378: MegamanX6_Ultimate_Armor_189
+    21300380: MegamanX6_Ultimate_Armor_190
+    21300382: MegamanX6_Ultimate_Armor_191
+    21300384: MegamanX6_Ultimate_Armor_192
+    21300386: MegamanX6_Ultimate_Armor_193
+    21300388: MegamanX6_Ultimate_Armor_194
+    21300390: MegamanX6_Ultimate_Armor_195
+    21300392: MegamanX6_Ultimate_Armor_196
+    21300394: MegamanX6_Ultimate_Armor_197
+    21300396: MegamanX6_Ultimate_Armor_198
+    21300398: MegamanX6_Ultimate_Armor_199
+    21300400: MegamanX6_Ultimate_Armor_200
+    21300402: MegamanX6_Ultimate_Armor_201
+    21300404: MegamanX6_Ultimate_Armor_202
+    21300406: MegamanX6_Ultimate_Armor_203
+    21300408: MegamanX6_Ultimate_Armor_204
+    21300410: MegamanX6_Ultimate_Armor_205
+    21300412: MegamanX6_Ultimate_Armor_206
+    21300414: MegamanX6_Ultimate_Armor_207
+    21300416: MegamanX6_Ultimate_Armor_208
+    21300418: MegamanX6_Ultimate_Armor_209
+    21300420: MegamanX6_Ultimate_Armor_210
+    21300422: MegamanX6_Ultimate_Armor_211
+    21300424: MegamanX6_Ultimate_Armor_212
+    21300426: MegamanX6_Ultimate_Armor_213
+    21300428: MegamanX6_Ultimate_Armor_214
+    21300430: MegamanX6_Ultimate_Armor_215
+    21300432: MegamanX6_Ultimate_Armor_216
+    21300434: MegamanX6_Ultimate_Armor_217
+    21300436: MegamanX6_Ultimate_Armor_218
+    21300438: MegamanX6_Ultimate_Armor_219
+    21300440: MegamanX6_Ultimate_Armor_220
+    21300442: MegamanX6_Ultimate_Armor_221
+    21300444: MegamanX6_Ultimate_Armor_222
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 615
+        width: 6
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_1
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 684
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 684
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_3
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 676
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 676
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_5
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 632
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_6
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 630
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 632
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 623
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 616
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 615
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 629
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_12
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 629
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 629
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 630
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_15
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 631
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 633
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_17
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 632
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_18
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 631
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 672
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 672
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_21
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 670
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_22
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 669
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_23
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 628
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 625
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 628
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 628
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 659
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_28
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 659
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 654
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 654
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_31
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 644
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_32
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 644
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_33
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 648
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_34
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 647
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_35
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 627
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_36
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 627
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_37
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 602
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_38
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 602
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_39
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 532
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_40
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 532
+        width: 52
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_41
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 556
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 553
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_43
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 557
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 554
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 561
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 566
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 556
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_48
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 556
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 566
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 561
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_51
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 554
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_52
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 557
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_53
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 553
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_54
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 556
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_55
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 581
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_56
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 581
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 492
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 491
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 494
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 493
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 494
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_62
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 494
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_63
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 493
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_64
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 491
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 492
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 492
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_67
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 493
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_68
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 493
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 492
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_70
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 491
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_71
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 492
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_72
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 490
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_73
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 465
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_74
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 475
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_75
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 466
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_76
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 466
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_77
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 464
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_78
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 460
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_79
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 456
+        width: 123
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 430
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 432
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_83
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 432
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 433
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_85
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 433
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_86
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 432
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_87
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 432
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_88
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 431
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_89
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 433
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_90
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 434
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_91
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 434
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_92
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 433
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_93
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 434
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_94
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_95
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 432
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_96
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 381
+        width: 123
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_97
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 385
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_98
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 389
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_99
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 391
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_100
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 356
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_102
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 390
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_103
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 364
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_104
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 359
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 357
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 359
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_107
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 362
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 361
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_109
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 358
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_110
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 361
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_111
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 365
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_112
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 365
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_113
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 361
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_114
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 358
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_115
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 361
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_116
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 362
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_117
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 359
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_118
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 357
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_119
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 359
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_120
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 364
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_121
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 302
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_122
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 277
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_123
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 298
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_124
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 290
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 283
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_126
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 291
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_127
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 286
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_129
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 289
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_130
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 289
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_131
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 286
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_132
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 288
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_133
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 291
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_134
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 283
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_135
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 290
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_136
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 302
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_137
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 303
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_138
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 297
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_139
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 304
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_140
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 304
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_141
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 304
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_142
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 228
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 228
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_144
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 228
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_145
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 228
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_146
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 228
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_147
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 228
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_148
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 228
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 227
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_150
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 205
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_151
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 205
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_152
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_153
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_154
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 206
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_155
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_156
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_157
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 206
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_158
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 219
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_159
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 219
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_160
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 219
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_161
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 212
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_162
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 213
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_163
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 214
+        width: 56
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_164
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 217
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_165
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 218
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_166
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 217
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_167
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 172
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_168
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 173
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_169
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 173
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_170
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 173
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_171
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 173
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 173
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_173
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 173
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_174
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 173
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 111
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_176
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_177
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 108
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_179
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 109
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_180
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 106
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_181
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 106
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_182
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 107
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_183
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 107
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_184
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 108
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_185
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 110
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_186
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 107
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_187
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 107
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_188
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 107
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_189
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 105
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_190
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 119
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_191
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 116
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_192
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 114
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_193
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 112
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_194
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 117
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_195
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 116
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_196
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 113
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_197
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 116
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_198
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 120
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_199
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_200
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 42
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_201
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 42
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_202
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 42
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_203
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 45
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_204
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 43
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_205
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 42
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_206
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 42
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_207
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 41
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_208
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 41
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_209
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 44
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_210
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 44
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_211
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 43
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_212
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 45
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_213
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 46
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_214
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 50
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_215
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 46
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_216
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 43
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_217
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 46
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_218
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 47
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_219
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 42
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_220
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 44
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_221
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 46
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MegamanX6_Ultimate_Armor_222
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 49
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
